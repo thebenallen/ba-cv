@@ -17,7 +17,7 @@ https://orcid.org/0000-0002-6325-859X
 *Technical Professional*
 2016 - Present
 
-**Lawrence Berkeley National Laboratory
+**Lawrence Berkeley National Laboratory**
 *Affiliate*
 2017 - Present
 
