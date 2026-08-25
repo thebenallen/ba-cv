@@ -4,7 +4,9 @@
 
 2412 Lawson Avenue
 Knoxville, TN 37917
+
 901-378-0131 | allenbh@ornl.gov | thebenallen@gmail.com
+
 https://orcid.org/0000-0002-6325-859X
 
 ---
@@ -78,11 +80,11 @@ Primary studies in theory and practice of science education and science-technolo
 
 ## EDUCATION
 
-**University of Tennessee Knoxville**
+**University of Tennessee, Knoxville**
 M.S. - Science Education (Microbiology)
 2012 - 2014
 
-**University of Tennessee Knoxville**
+**University of Tennessee, Knoxville**
 B.S. - Biochemistry, Cellular, & Molecular Biology
 2006 - 2010
 
