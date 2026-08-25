@@ -67,7 +67,7 @@ Primary studies in theory and practice of science education and science-technolo
 - Cultivated wild-type and transgenic plants to analyze root and shoot growth patterns
 - Prepared growth media and maintained laboratory supply using safe and sterile techniques
 
-### UTK Department of Biochemistry, Cellular, and Molecular Biology
+### UTK Department of Ecology and Evolutionary Biology
 **Research Assistant for Dr. Darrin Hulsey**
 2009 - 2010
 
@@ -95,29 +95,29 @@ B.S. - Biochemistry, Cellular, & Molecular Biology
 
 ## PUBLICATIONS
 
-Wood-Charlson EM, Henry CS, Dehal PS, Mahmud G, **Allen BH**, Beilsmith K, et al. KBase: Open-source Platform for Collaborative Biological Data Analysis and Publication. *Journal of Molecular Biology*. 2026; 169676. doi:10.1016/j.jmb.2026.169676
+Wood-Charlson EM, Henry CS, Dehal PS, Mahmud G, **Allen BH**, Beilsmith K, et al. KBase: Open-source Platform for Collaborative Biological Data Analysis and Publication. *Journal of Molecular Biology*. 2026; 169676. doi: 10.1016/j.jmb.2026.169676
 
-Imai S, **Allen B**, Hochanadel LH, Alexander WG, Cottingham RW, Schadt CW, et al. Complete genome sequence of Luteolibacter sp. strain Populi, a member of phylum Verrucomicrobiota isolated from the Populus trichocarpa rhizosphere. *Microbiology Resource Announcements*. 2024;0: e00801-24. doi:10.1128/mra.00801-24
+Imai S, **Allen B**, Hochanadel LH, Alexander WG, Cottingham RW, Schadt CW, et al. Complete genome sequence of Luteolibacter sp. strain Populi, a member of phylum Verrucomicrobiota isolated from the Populus trichocarpa rhizosphere. *Microbiology Resource Announcements*. 2024;0: e00801-24. doi: 10.1128/mra.00801-24
 
-Chivian D, Jungbluth SP, Dehal PS, Wood-Charlson EM, Canon RS, **Allen BH**, et al. Metagenome-assembled genome extraction and analysis from microbiomes using KBase. *Nature Protocols*. 2022. doi:10.1038/s41596-022-00747-x
+Chivian D, Jungbluth SP, Dehal PS, Wood-Charlson EM, Canon RS, **Allen BH**, et al. Metagenome-assembled genome extraction and analysis from microbiomes using KBase. *Nature Protocols*. 2022. doi: 10.1038/s41596-022-00747-x
 
-Dow EG, Wood-Charlson EM, Biller SJ, Paustian T, Schirmer A, Sheik CS,..., **Allen BH**, et al. Bioinformatic Teaching Resources – For Educators, by Educators – Using KBase, a Free, User-Friendly, Open Source Platform. *Frontiers Education*. 2021;6: 711535. doi:10.3389/feduc.2021.711535
+Dow EG, Wood-Charlson EM, Biller SJ, Paustian T, Schirmer A, Sheik CS,..., **Allen BH**, et al. Bioinformatic Teaching Resources – For Educators, by Educators – Using KBase, a Free, User-Friendly, Open Source Platform. *Frontiers Education*. 2021;6: 711535. doi: 10.3389/feduc.2021.711535
 
-**Allen BH**, Gupta N, Edirisinghe JN, Faria JP, Henry CS. Application of the Metabolic Modelling Pipeline in KBase to Categorize Reactions, Predict Essential Genes, and Predict Pathways in an Isolate Genome. Navid A, editor. *Microbial Systems Biology: Methods and Protocols*. 2022; 291–320. doi:10.1007/978-1-0716-1585-0_13
+**Allen BH**, Gupta N, Edirisinghe JN, Faria JP, Henry CS. Application of the Metabolic Modelling Pipeline in KBase to Categorize Reactions, Predict Essential Genes, and Predict Pathways in an Isolate Genome. Navid A, editor. *Microbial Systems Biology: Methods and Protocols*. 2022; 291–320. doi: 10.1007/978-1-0716-1585-0_13
 
-**Allen BH**, Land ML, Wood-Charlson EM. Make the Most Out of Genome Announcements with KBase. Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States); DOE Systems Biology Knowledgebase (KBase); 2020 Apr. doi:10.25982/1608940
+**Allen BH**, Land ML, Wood-Charlson EM. Make the Most Out of Genome Announcements with KBase. Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States); DOE Systems Biology Knowledgebase (KBase); 2020 Apr. doi: 10.25982/1608940
 
-Arkin AP, Cottingham RW, Henry CS, Harris NL, Stevens RL, Maslov S,..., **Allen BH**, et al. KBase: The United States Department of Energy Systems Biology Knowledgebase. *Nature Biotechnology*. 2018;36: 566–569. doi:10.1038/nbt.4163
+Arkin AP, Cottingham RW, Henry CS, Harris NL, Stevens RL, Maslov S,..., **Allen BH**, et al. KBase: The United States Department of Energy Systems Biology Knowledgebase. *Nature Biotechnology*. 2018;36: 566–569. doi: 10.1038/nbt.4163
 
-Edirisinghe JN, Faria JP, Harris NL, **Allen BH**, Henry CS. Reconstruction and Analysis of Central Metabolism in Microbes. In: Fondi M, editor. *Metabolic Network Reconstruction and Modelling: Methods and Protocols*. New York, NY: Springer; 2018. pp. 111–129. doi:10.1007/978-1-4939-7528-0_5
+Edirisinghe JN, Faria JP, Harris NL, **Allen BH**, Henry CS. Reconstruction and Analysis of Central Metabolism in Microbes. In: Fondi M, editor. *Metabolic Network Reconstruction and Modelling: Methods and Protocols*. New York, NY: Springer; 2018. pp. 111–129. doi: 10.1007/978-1-4939-7528-0_5
 
 **Allen B**, Schmalzer S. Energy and Environment. In: Botelho A, Chard D, Schmalzer S, editors. *Science for the People: Documents from America's Movement of Radical Scientists, 1969-1989*. Amherst: University of Massachusetts Press; ISBN 978-1-62534-318-5
 
 **Allen B**, Schmalzer S. Science, Power, and Ideology. In: Botelho A, Chard D, Schmalzer S, editors. *Science for the People: Documents from America's Movement of Radical Scientists, 1969-1989*. Amherst: University of Massachusetts Press; ISBN 978-1-62534-318-5
 
-**Allen B**, Drake M, Harris N, Sullivan T. Using KBase to Assemble and Annotate Prokaryotic Genomes. *Current Protocols in Microbiology*. 2017;46: 1E.13.1-1E.13.18. doi:10.1002/cpmc.37
+**Allen B**, Drake M, Harris N, Sullivan T. Using KBase to Assemble and Annotate Prokaryotic Genomes. *Current Protocols in Microbiology*. 2017;46: 1E.13.1-1E.13.18. doi: 10.1002/cpmc.37
 
-**Allen B**. Exploring the Role of Ideology in Interdisciplinary Science Education Policy. *Educational Studies*. 2017;53: 642–653. doi:10.1080/00131946.2017.1369081
+**Allen B**. Exploring the Role of Ideology in Interdisciplinary Science Education Policy. *Educational Studies*. 2017;53: 642–653. doi: 10.1080/00131946.2017.1369081
 
 ---
 
