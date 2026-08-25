@@ -21,9 +21,9 @@ https://orcid.org/0000-0002-6325-859X
 *Affiliate*
 2017 - Present
 
-- Leads *User Science Support* team to grow and advance research output of KBase platform
-- Builds analytical workflows, software/data integration, and research software engineering
-- Collaborates with microbiologists to process genomic sequencing data and interpret results
+- Lead *User Science Support* research software engineering team to support 60K platform users
+- Builds analytical workflows and integrates data products into KBase platform
+- Collaborates with biologists to process genomic sequencing data and interpret results
 - Analyses research publications and data products for microbial genomics and ecology
 - Publishes protocols demonstrating use of bioinformatics tools for systems biology research
 - Coordinates training activities to demonstrate research software to researchers
@@ -79,7 +79,7 @@ Primary studies in theory and practice of science education and science-technolo
 ## EDUCATION
 
 **University of Tennessee Knoxville**
-M.S. - Science Education/Microbiology
+M.S. - Science Education (Microbiology)
 2012 - 2014
 
 **University of Tennessee Knoxville**
@@ -87,9 +87,7 @@ B.S. - Biochemistry, Cellular, & Molecular Biology
 2006 - 2010
 
 **University of Strathclyde (Glasgow, Scotland)**
-2007
-
-Study abroad experience with curriculum focus on molecular biology, immunology, and computer science.
+2007 - Study abroad experience with curriculum focus on molecular biology, immunology, and computer science.
 
 ---
 
@@ -123,9 +121,9 @@ Edirisinghe JN, Faria JP, Harris NL, **Allen BH**, Henry CS. Reconstruction and 
 
 ## PROFESSIONAL AFFILIATIONS
 
-- US-Research Software Engineering (2024-2026)
-- American Society for Microbiology (2022-2026)
-- International Society for Microbial Ecology (2024-2026)
+- US Research Software Engineering
+- American Society for Microbiology
+- International Society for Microbial Ecology 
 
 ---
 
@@ -177,3 +175,42 @@ American Society for Microbiology (2016)
 **Zach Crockett** - Oak Ridge Associated Universities (2019) - KBase User Support - Oak Ridge National Laboratory
 
 **Mikayla Clark** - Oak Ridge Associated Universities (2018) - Postgraduate Research Associate - University of Tennessee, Knoxville
+
+## TECHNICAL SKILLS
+
+### Computational Skills
+
+### Enterprise Software
+Jira, GitHub, GitLab
+
+### Integrated Development Environments
+VS Code, Zed
+
+### Programming Languages
+Python, R
+
+### Markup Languages
+HTML, Markdown, YAML
+
+### Bioinformatics
+
+#### Genomics
+- Reads QC/QA (Trimmomatic, FastQC, MultiQC, Nanopack), Read Mapping & Alignment (Bowtie2, HISAT2, STAR, BWA) Genome Assembly (SPAdes, Flye, Autocycler), Assembly QA/QC (CheckM2, Bandage) Genome Annotation (NCBI PGAP, Bakta, Prokka, RASTtk) Comparative Genomics (BLAST, MUSCLE)
+
+#### Metagenomics
+- Metagenome Assembly (metaSPAdes, MEGAHit, IDBA-UD), Contig Binning (MaxBin2, MetaBAT2, CONCOCT, DAS-Tool), MAG Quality Control (CheckM2, CoverM)
+
+#### Phylogenomics and Taxonomy
+- Kraken2, Kaiju, GTDB-Tk, RAxML, iTOL, FastTree2
+
+#### Transcriptomics / RNA-Seq Analysis
+- StringTie
+- Cufflinks / Cuffdiff
+- DESeq2
+- Ballgown
+
+#### Visualization
+- anvio, Proksee
+
+#### Metabolic Modeling & Flux Balance Analysis
+- ModelSEED, COBRApy
