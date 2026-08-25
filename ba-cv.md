@@ -186,34 +186,34 @@ DOE Genome Science Program PI Meeting (2020, 2019); Plant Animal Genome Conferen
 
 ### Computational Skills
 
-### Enterprise Software
+**Enterprise Software:**
 Jira, GitHub, GitLab
 
-### Integrated Development Environments
+**Integrated Development Environments:**
 VS Code, Zed
 
-### Programming Languages
+**Programming Languages:**
 Python, R
 
-### Markup Languages
+**Markup Languages:**
 HTML, Markdown, YAML
 
 ### Bioinformatics
 
-#### Genomics
-- Reads QC/QA (Trimmomatic, FastQC, MultiQC, Nanopack), Read Mapping & Alignment (Bowtie2, HISAT2, STAR, BWA) Genome Assembly (SPAdes, Flye, Autocycler), Assembly QA/QC (CheckM2, Bandage) Genome Annotation (NCBI PGAP, Bakta, Prokka, RASTtk) Comparative Genomics (BLAST, MUSCLE)
+**Genomics**
+- Reads QC/QA (Trimmomatic, FastQC, MultiQC, Nanopack), Read Mapping & Alignment (Bowtie2, HISAT2, STAR, BWA) Genome Assembly (SPAdes, Flye, Autocycler), Assembly QA/QC (CheckM2, Bandage) Genome Annotation (NCBI PGAP, Bakta, Prokka, RASTtk) Comparative Genomics (BLAST, MUSCLE).
 
-#### Metagenomics
+**Metagenomics**
 - Metagenome Assembly (metaSPAdes, MEGAHit, IDBA-UD), Contig Binning (MaxBin2, MetaBAT2, CONCOCT, DAS-Tool), MAG Quality Control (CheckM2, CoverM)
 
-#### Phylogenomics and Taxonomy
+**Phylogenomics and Taxonomy**
 - Kraken2, Kaiju, GTDB-Tk, RAxML, iTOL, FastTree2
 
-#### Transcriptomics / RNA-Seq Analysis
+**Transcriptomics / RNA-Seq Analysis**
 - Alignment (Bowtie2, TopHat2, HISAT2, STAR), Assembly (StringTie, Cufflinks), Differential Expression (DESeq2, Ballgown)
 
-#### Visualization
+**Visualization**
 - anvio, Proksee
 
-#### Metabolic Modeling & Flux Balance Analysis
+**Metabolic Modeling & Flux Balance Analysis**
 - ModelSEED, COBRApy
