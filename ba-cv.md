@@ -130,18 +130,10 @@ Edirisinghe JN, Faria JP, Harris NL, **Allen BH**, Henry CS. Reconstruction and 
 
 ## CONFERENCING
 
-### Posters
+### Presentations
 
-**Accelerating Production of Finished Isolate Genomes with Long-Reads Isolate Sequencing and Assembly (LISA) Tools**
-American Society for Microbiology (2024)
-
-**Outreach and User Development for the KBase Science Community**
-Research Software Engineering 2024; DOE Genome Science Program PI Meeting (2024, 2023)
-
-**KBase: The Systems Biology Knowledgebase for Predictive Biological and Environmental Research in an Integrated Data Platform**
-DOE Genome Science Program PI Meeting (2020, 2019); Plant Animal Genome Conference (2016)
-
-### Seminars & Workshops
+**From Lakehouse to Labmate: KBase’s Vision for AI-Enabled Scientific Discovery"**
+US Research Software Engineering (2026)
 
 **Advanced Genomic Feature Analysis Using Open Access Tools**
 American Society for Microbiology (2026)
@@ -160,6 +152,19 @@ JGI Genomics of Energy and Environment Meeting (2020-2024); APS Plant Health (20
 
 **Genome-scale Metabolic Modelling of Environmental Isolates and Communities using the DOE Systems Biology Knowledgebase**
 American Society for Microbiology (2016)
+
+
+### Posters
+
+**Accelerating Production of Finished Isolate Genomes with Long-Reads Isolate Sequencing and Assembly (LISA) Tools**
+American Society for Microbiology (2024)
+
+**Outreach and User Development for the KBase Science Community**
+US Research Software Engineering (2024); DOE Genome Science Program PI Meeting (2024, 2023)
+
+**KBase: The Systems Biology Knowledgebase for Predictive Biological and Environmental Research in an Integrated Data Platform**
+DOE Genome Science Program PI Meeting (2020, 2019); Plant Animal Genome Conference (2016)
+
 
 ---
 
@@ -205,10 +210,7 @@ HTML, Markdown, YAML
 - Kraken2, Kaiju, GTDB-Tk, RAxML, iTOL, FastTree2
 
 #### Transcriptomics / RNA-Seq Analysis
-- StringTie
-- Cufflinks / Cuffdiff
-- DESeq2
-- Ballgown
+- Alignment (Bowtie2, TopHat2, HISAT2, STAR), Assembly (StringTie, Cufflinks), Differential Expression (DESeq2, Ballgown)
 
 #### Visualization
 - anvio, Proksee
