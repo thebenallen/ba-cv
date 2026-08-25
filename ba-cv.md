@@ -2,8 +2,7 @@
 
 **BIOLOGIST · TECHNOLOGIST · EDUCATOR**
 
-2412 Lawson Avenue
-Knoxville, TN 37917
+2412 Lawson Avenue, Knoxville, TN 37917
 
 901-378-0131 | allenbh@ornl.gov | thebenallen@gmail.com
 
@@ -165,7 +164,6 @@ US Research Software Engineering (2024); DOE Genome Science Program PI Meeting (
 **KBase: The Systems Biology Knowledgebase for Predictive Biological and Environmental Research in an Integrated Data Platform**
 DOE Genome Science Program PI Meeting (2020, 2019); Plant Animal Genome Conference (2016)
 
-
 ---
 
 ## MENTORSHIP
@@ -186,8 +184,11 @@ DOE Genome Science Program PI Meeting (2020, 2019); Plant Animal Genome Conferen
 
 ### Computational Skills
 
+**Command-line Interfaces**
+Bash, zsh
+
 **Enterprise Software:**
-Jira, GitHub, GitLab
+Jira, GitHub, GitLab, Globus
 
 **Integrated Development Environments:**
 VS Code, Zed
