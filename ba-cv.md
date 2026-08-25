@@ -56,8 +56,6 @@ https://orcid.org/0000-0002-6325-859X
 - Engaged in best practices for diversity, equity, and inclusivity in STEM education
 - Produced multimedia for research and education efforts at UTK and ORNL
 
-Primary studies in theory and practice of science education and science-technology-society studies, with scientific coursework focus on microbiology and environmental engineering. Undergraduate studies in biochemistry, genome science, ecology and evolutionary biology with lab experience in molecular techniques, computational biology, and organic chemistry.
-
 ### UTK Department of Biochemistry, Cellular, & Molecular Biology
 **Research Assistant for Dr. Albrecht von Arnim**
 2010
@@ -83,13 +81,14 @@ Primary studies in theory and practice of science education and science-technolo
 **University of Tennessee, Knoxville**
 M.S. - Science Education (Microbiology)
 2012 - 2014
-
+#### Primary studies in theory and practice of science education and science-technology-society studies, with scientific coursework focus on microbiology and environmental engineering.
 **University of Tennessee, Knoxville**
 B.S. - Biochemistry, Cellular, & Molecular Biology
 2006 - 2010
-
+#### Undergraduate studies in biochemistry, genome science, ecology and evolutionary biology with lab experience in molecular techniques, computational biology, and organic chemistry.
 **University of Strathclyde (Glasgow, Scotland)**
-2007 - Study abroad experience with curriculum focus on molecular biology, immunology, and computer science.
+2007
+#### Study abroad experience with curriculum focus on molecular biology, immunology, and computer science.
 
 ---
 
