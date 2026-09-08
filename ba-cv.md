@@ -22,7 +22,7 @@ https://orcid.org/0000-0002-6325-859X
 *Affiliate*
 2017 - Present
 
-- Lead *User Science Support* research software engineering team to support 60K platform users
+- Leads *User Science Support* research software engineering team to support 60K platform users
 - Builds analytical workflows and integrates data products into KBase platform
 - Collaborates with biologists to process genomic sequencing data and interpret results
 - Analyses research publications and data products for microbial genomics and ecology
@@ -99,9 +99,9 @@ Imai S, **Allen B**, Hochanadel LH, Alexander WG, Cottingham RW, Schadt CW, et a
 
 Chivian D, Jungbluth SP, Dehal PS, Wood-Charlson EM, Canon RS, **Allen BH**, et al. Metagenome-assembled genome extraction and analysis from microbiomes using KBase. *Nature Protocols*. 2022. doi: 10.1038/s41596-022-00747-x
 
-Dow EG, Wood-Charlson EM, Biller SJ, Paustian T, Schirmer A, Sheik CS,..., **Allen BH**, et al. Bioinformatic Teaching Resources – For Educators, by Educators – Using KBase, a Free, User-Friendly, Open Source Platform. *Frontiers Education*. 2021;6: 711535. doi: 10.3389/feduc.2021.711535
-
 **Allen BH**, Gupta N, Edirisinghe JN, Faria JP, Henry CS. Application of the Metabolic Modelling Pipeline in KBase to Categorize Reactions, Predict Essential Genes, and Predict Pathways in an Isolate Genome. Navid A, editor. *Microbial Systems Biology: Methods and Protocols*. 2022; 291–320. doi: 10.1007/978-1-0716-1585-0_13
+
+Dow EG, Wood-Charlson EM, Biller SJ, Paustian T, Schirmer A, Sheik CS,..., **Allen BH**, et al. Bioinformatic Teaching Resources – For Educators, by Educators – Using KBase, a Free, User-Friendly, Open Source Platform. *Frontiers Education*. 2021;6: 711535. doi: 10.3389/feduc.2021.711535
 
 **Allen BH**, Land ML, Wood-Charlson EM. Make the Most Out of Genome Announcements with KBase. Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States); DOE Systems Biology Knowledgebase (KBase); 2020 Apr. doi: 10.25982/1608940
 
@@ -196,22 +196,34 @@ VS Code, Zed
 **Programming Languages:**
 Python, R
 
+**Agentic Systems & Tools:**
+Claude, ChatGPT, Ollama, LM Studio
+
 **Markup Languages:**
 HTML, Markdown, YAML
 
 ### Bioinformatics
 
 **Genomics**
-- Reads QC/QA (Trimmomatic, FastQC, MultiQC, Nanopack), Read Mapping & Alignment (Bowtie2, HISAT2, STAR, BWA) Genome Assembly (SPAdes, Flye, Autocycler), Assembly QA/QC (CheckM2, Bandage) Genome Annotation (NCBI PGAP, Bakta, Prokka, RASTtk) Comparative Genomics (BLAST, MUSCLE).
+- Reads QC/QA: Trimmomatic, FastQC, MultiQC, Nanopack
+- Read Mapping & Alignment: Bowtie2, HISAT2, STAR, BWA
+- Genome Assembly: SPAdes, Flye, Autocycler
+- Assembly QA/QC CheckM2, Bandage
+- Genome Annotation: NCBI PGAP, Bakta, Prokka, RASTtk
+- Comparative Genomics: BLAST, MUSCLE
 
 **Metagenomics**
-- Metagenome Assembly (metaSPAdes, MEGAHit, IDBA-UD), Contig Binning (MaxBin2, MetaBAT2, CONCOCT, DAS-Tool), MAG Quality Control (CheckM2, CoverM)
+- Metagenome Assembly: metaSPAdes, MEGAHit, IDBA-UD 
+- Contig Binning: MaxBin2, MetaBAT2, CONCOCT, DAS-Tool
+- MAG Quality Control: CheckM2, CoverM
 
 **Phylogenomics and Taxonomy**
 - Kraken2, Kaiju, GTDB-Tk, RAxML, iTOL, FastTree2
 
 **Transcriptomics / RNA-Seq Analysis**
-- Alignment (Bowtie2, TopHat2, HISAT2, STAR), Assembly (StringTie, Cufflinks), Differential Expression (DESeq2, Ballgown)
+- Alignment Bowtie2, TopHat2, HISAT2, STAR
+- Assembly: StringTie, Cufflinks
+- Differential Expression: DESeq2, Ballgown
 
 **Visualization**
 - anvio, Proksee
