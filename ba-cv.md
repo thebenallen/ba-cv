@@ -168,17 +168,17 @@ DOE Genome Science Program PI Meeting (2020, 2019); Plant Animal Genome Conferen
 
 ## MENTORSHIP
 
-**Hannah Keenhold** - Bioinformatics - Virginia Commonwealth University
+**Hannah Keenhold** (2025-2026) - Virginia Commonwealth University (Bioinformatics)
 
-**Cyrus Shahnam** (2025-2026) - Computation Biology - West Virginia University
+**Cyrus Shahnam** (2025-2026) - West Virginia University (Computational Biology)
 
-**Grace Feng** (2025-2026) - Computer Science - University of Michigan
+**Grace Feng** (2024-2026) - University of Michigan (Computer Science)
 
-**Sora Imai** - Next Generation STEM Internship Program (2024) - Student - Farragut High School
+**Sora Imai** (2023) - University of Tennessee (Enviromental Engineering)
 
-**Zach Crockett** - Oak Ridge Associated Universities (2019) - KBase User Support - Oak Ridge National Laboratory
+**Zach Crockett** (2019) - Oak Ridge National Laboratory (KBase)
 
-**Mikayla Clark** - Oak Ridge Associated Universities (2018) - Postgraduate Research Associate - University of Tennessee, Knoxville
+**Mikayla Clark** (2028) - University of Tennessee, Knoxville (Research Associate)
 
 ## TECHNICAL SKILLS
 
@@ -196,6 +196,9 @@ VS Code, Zed
 **Programming Languages:**
 Python, R
 
+**Environment & Package Management:**
+conda, Anaconda, uv
+
 **Agentic Systems & Tools:**
 Claude, ChatGPT, Ollama, LM Studio
 
@@ -204,13 +207,16 @@ HTML, Markdown, YAML
 
 ### Bioinformatics
 
+**Platforms**
+- KBase, Geneious, Galaxy, Cyverse
+
 **Genomics**
 - Reads QC/QA: Trimmomatic, FastQC, MultiQC, Nanopack
 - Read Mapping & Alignment: Bowtie2, HISAT2, STAR, BWA
 - Genome Assembly: SPAdes, Flye, Autocycler
 - Assembly QA/QC CheckM2, Bandage
 - Genome Annotation: NCBI PGAP, Bakta, Prokka, RASTtk
-- Comparative Genomics: BLAST, MUSCLE
+- Comparative Genomics: BLAST, DIAMOND, MUSCLE, HMMER, OrthoMCL
 
 **Metagenomics**
 - Metagenome Assembly: metaSPAdes, MEGAHit, IDBA-UD 
