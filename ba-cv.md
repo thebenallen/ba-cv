@@ -199,6 +199,9 @@ Python, R
 **Environment & Package Management:**
 conda, Anaconda, uv
 
+**Data Science Notebook Environments**
+Jupyter, Observable
+
 **Agentic Systems & Tools:**
 Claude, ChatGPT, Ollama, LM Studio
 
