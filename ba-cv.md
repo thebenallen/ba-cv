@@ -197,10 +197,10 @@ VS Code, Zed
 Python, R
 
 **Environment & Package Management:**
-conda, Anaconda, uv
+conda, uv
 
-**Data Science Notebook Environments**
-Jupyter, Observable
+**Data Science Environments**
+Jupyter, Anaconda, Observable
 
 **Agentic Systems & Tools:**
 Claude, ChatGPT, Ollama, LM Studio
